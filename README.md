@@ -1,4 +1,5 @@
 # YouTube_Clone
+This repository is meant for learning purpose and there are no intentions of plagiarism.
 
 YouTube frontend Clone using HTML and CSS
 
