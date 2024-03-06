@@ -3,6 +3,7 @@ This repository is meant for learning purpose and there are no intentions of pla
 
 YouTube frontend Clone using HTML and CSS
 
+
 when min screen width is 1000px
 
  ![alt text](<Screenshot (7).png>)
